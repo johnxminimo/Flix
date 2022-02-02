@@ -20,7 +20,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="https://i.imgur.com/ukzJeAm.gif" width=250><br>
+
+![](https://i.imgur.com/FYxdWET.gif)
+
 
 ### Notes
 Building the app went smoothly, however, encountered an issue importing AlamofireImage. Needed to go to the git repo and read the README to be able to get the package.
