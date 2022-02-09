@@ -18,7 +18,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src=optimizedPart2Flix.gif width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Had trouble getting the right sizing for the movie posters in the GridViewController. Had to manually input the pixel dimensions of the posterView to match. Tweaked with the values to show 3 posters on the same row.
 
 ## Flix Part 1
 
